@@ -1,0 +1,40 @@
+.container .jumbotron {
+  padding: 20px 32px;
+}
+
+footer {
+  padding: 68px 0 12px;
+  text-align: right;
+}
+
+.console {
+  font-size: 12px;
+}
+
+.console .jquery-console-inner {
+  height: 150px;
+  background: #333;
+  padding: 0.5em;
+  overflow: auto
+}
+
+.console .jquery-console-prompt-box {
+  color: #fff;
+  font-family: monospace;
+}
+
+.console .jquery-console-focus .jquery-console-cursor {
+  background: #fefefe;
+  color: #333;
+  font-weight: bold;
+}
+
+.console .jquery-console-message-value {
+  color: #69c;
+  font-family: monospace;
+  padding: 0.1em;
+}
+
+.console .jquery-console-prompt-label {
+  font-weight: bold;
+}
